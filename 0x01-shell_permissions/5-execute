@@ -1,2 +1,2 @@
 #!/bin/bash
-jfj
+chmod u+x hello
